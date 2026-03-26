@@ -6,4 +6,6 @@ numpy
 pandas
 scikit-learn
 seaborn
-streamlit
+streamlit>=1.32.0
+Pillow
+altair>=5.0.0
