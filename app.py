@@ -458,5 +458,5 @@ if uploaded_file is not None:
     st.markdown("""
     <p style='text-align:center; font-size:0.78rem; color:#a89070; font-family:Lato,sans-serif;
               font-style:italic; margin:0;'>
-        Model trained on mel-spectrogram representations of bird audio. NJK 2026
+        Model trained on mel-spectrogram representations of bird audio.
     </p>""", unsafe_allow_html=True)
